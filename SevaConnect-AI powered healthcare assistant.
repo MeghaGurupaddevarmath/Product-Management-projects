@@ -1,0 +1,39 @@
+SevaConnect – AI-Powered Healthcare Scheme Assistant
+🧩 Problem :
+Accessing government healthcare schemes like PMJAY is difficult for many users due to:
+Low awareness of eligibility criteria
+Complex documentation requirements
+Language and literacy barriers
+Difficulty finding nearby empanelled hospitals
+This leads to low adoption of available benefits, especially in underserved communities.
+💡 Solution :
+Designed an AI-powered assistant that helps users:
+Check eligibility
+Understand required documents
+Discover nearby hospitals
+Interact in multiple languages (voice + text)
+🎯 My Role :.
+Defined product vision and user problem
+Designed end-to-end user journey
+Built conversational flow logic
+Focused on accessibility and usability
+⚙️ Key Features :
+Multilingual conversational interface (voice + text)
+Guided eligibility checker
+Document requirement assistant
+Location-based hospital discovery
+🧪 Product Thinking :
+User Persona
+Low-income individuals
+Limited digital literacy
+Prefer regional languages
+Key Insight
+“Users don’t fail to access schemes because they don’t qualify—they fail because the process is too complex.”
+📈 Impact :
+Simplified a multi-step government process into a guided flow
+Reduced user effort in discovering and applying for schemes
+Improved accessibility through multilingual and voice support
+🚀 Future Improvements :
+Integration with government databases
+Real-time application tracking
+WhatsApp-based interface for wider reach
